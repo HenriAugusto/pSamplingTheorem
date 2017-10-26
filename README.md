@@ -13,3 +13,16 @@ You can either:
 A popup will appear asking if you want to run it in fullscreen or in a window. (Alt+tab if you miss that pop-up).
 
 *Press F1 while the application is running for instructions*
+
+## Cool things to do in pSamplingTheorem
+
+* Animate time
+* Compare the samples of waves of frequencies that are the Sampling Rate apart.
+* Compare the samples of waves of frequencies that are half the Sampling Rate apart.
+* See the samples of sinusoids near the Nyquist frequency.
+* Mirror the wave's frequency around Nyquist and compare the resulting samples.
+* Experiment with different sampling rates
+
+## Screenshot
+
+![App screenshot](https://github.com/HenriAugusto/pSamplingTheorem/blob/master/Screenshot.png)
